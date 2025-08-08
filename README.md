@@ -1,5 +1,5 @@
-📊 Customer & Order Data Insights  
-Customer & Order Data Insights is an end-to-end data analytics project that processes retail sales data using **Excel**, **SQL Server**, and **Power BI** to extract meaningful business insights and create an interactive multi-page report.
+📊 Customer & Order Data Analysis  
+Customer & Order Data Analysis is an end-to-end data analysis project that processes retail sales data using **Excel**, **SQL Server**.
 
 ---
 
@@ -14,16 +14,11 @@ Customer & Order Data Insights is an end-to-end data analytics project that proc
 - Imported cleaned data into SQL Server.  
 - Wrote SQL queries for joins, aggregations, filters.  
 
-**Data Visualization (Power BI)**  
-- Connected SQL Server data to Power BI.  
-- Built interactive visual Charts.  
-
 ---
 
 🚀 **Features**  
 ✅ Structured data cleaning in Excel.  
 ✅ Executed SQL queries for business insights.  
-✅ Interactive Power BI Charts and multi-page Chart visuals.  
 ✅ Realistic Amazon-style customer & order dataset.  
 
 ---
@@ -39,10 +34,6 @@ Customer-Order-Data-Insights/
 │ ├── 📄 sql_queries.sql
 │ ├── 📄 SQL_Executed_Queries.pdf
 │
-│── 📂 Power BI Charts
-│ ├── 📄 PowerBI_Report.pbix
-│ ├── 📄 PowerBI_Report.pdf
-│
 │── 💜 README.md # Project documentation
 
 ---
@@ -57,16 +48,11 @@ Customer-Order-Data-Insights/
 - Open `sql_queries.sql` in SQL Server Management Studio (SSMS).  
 - Execute queries for joins, filters, groupings, and aggregations.  
 
-**3️⃣ Open Power BI Report**  
-- Open `PowerBI_Report.pbix` in Power BI Desktop.  
-- Ensure the SQL Server connection is set correctly or use the included Excel dataset for offline mode.  
-
 ---
 
 🫠 **Technologies Used**  
 - **Excel** – Data cleaning, formatting, and combination.  
 - **SQL Server** – Data storage and analysis using SQL queries.  
-- **Power BI** – Interactive multi-page chart creation.  
 
 ---
 
@@ -80,4 +66,4 @@ For issues, please open a GitHub issue.
 GitHub: [https://github.com/SidduKumar-1292](https://github.com/SidduKumar-1292)  
 Email: **siddukumar1292@gmail.com**  
 
-🚀 *Empowering Business Insights Through Data!* 📊
+🚀 *Empowering Analysis Through Data!* 📊
