@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Age,Gender,City,State
+C001,John Smith,32,Male,Seattle,WA
+C002,Mary Jane,27,Female,Austin,TX
+C003,Ali Khan,40,Male,Miami,FL
+C004,Priya Sharma,35,Female,Denver,CO
+C005,Carlos Diaz,29,Male,Boston,MA
+C006,Emily Davis,31,Female,Chicago,IL
+C007,David Miller,45,Male,Phoenix,AZ
+C008,Sarah Lee,26,Female,Atlanta,GA
+C009,Rajesh Kumar,38,Male,New York,NY
+C010,Laura Wilson,42,Female,San Francisco,CA
+C011,Michael Brown,33,Male,Dallas,TX
+C012,Anna Johnson,28,Female,Orlando,FL
+C013,Rohit Singh,36,Male,Seattle,WA
+C014,Sofia Martinez,30,Female,Boston,MA
+C015,Jacob White,41,Male,Miami,FL
+C016,Olivia Taylor,24,Female,Denver,CO
+C017,Ethan Clark,37,Male,Phoenix,AZ
+C018,Isabella Garcia,29,Female,Atlanta,GA
+C019,Tom Harris,34,Male,New York,NY
+C020,Mia Anderson,39,Female,San Francisco,CA

@@ -1,0 +1,51 @@
+OrderID,CustomerID,OrderDate,ShipDate,ProductCategory,ProductName,Quantity,Price,Region,OrderStatus
+101,C001,02-01-2024,05-01-2024,Electronics,Echo Dot,1,49.99,North,Delivered
+102,C002,03-01-2024,06-01-2024,Books,Atomic Habits,2,10.5,South,Delivered
+103,C003,05-01-2024,,Electronics,Kindle,1,89.99,East,Pending
+104,C004,07-01-2024,10-01-2024,Home,Coffee Maker,1,79.99,West,Delivered
+105,C005,08-01-2024,12-01-2024,Clothing,T-Shirt,3,15,North,Delivered
+106,C006,09-01-2024,12-01-2024,Toys,Lego Set,1,59.99,South,Delivered
+107,C007,10-01-2024,14-01-2024,Electronics,Fire TV Stick,2,39.99,East,Delivered
+108,C008,11-01-2024,,Books,Deep Work,1,12.5,West,Pending
+109,C009,12-01-2024,15-01-2024,Clothing,Jacket,1,99.99,North,Delivered
+110,C010,13-01-2024,17-01-2024,Home,Vacuum Cleaner,1,149.99,South,Delivered
+111,C011,14-01-2024,18-01-2024,Electronics,Kindle,1,89.99,East,Delivered
+112,C012,15-01-2024,18-01-2024,Toys,Toy Car,2,25,West,Delivered
+113,C013,16-01-2024,,Electronics,Echo Dot,1,49.99,North,Pending
+114,C014,17-01-2024,20-01-2024,Books,The Lean Startup,1,15.5,South,Delivered
+115,C015,18-01-2024,21-01-2024,Clothing,Jeans,2,40,East,Delivered
+116,C016,19-01-2024,,Home,Blender,1,59.99,West,Pending
+117,C017,20-01-2024,23-01-2024,Electronics,Fire TV Stick,1,39.99,North,Delivered
+118,C018,21-01-2024,24-01-2024,Books,Atomic Habits,1,10.5,South,Delivered
+119,C019,22-01-2024,,Toys,Doll,1,20,East,Cancelled
+120,C020,23-01-2024,27-01-2024,Clothing,T-Shirt,2,15,West,Delivered
+121,C001,01-02-2024,04-02-2024,Electronics,Echo Dot,1,49.99,North,Delivered
+122,C002,02-02-2024,06-02-2024,Books,Deep Work,1,12.5,South,Delivered
+123,C003,03-02-2024,,Electronics,Kindle,1,89.99,East,Pending
+124,C004,04-02-2024,08-02-2024,Home,Coffee Maker,2,79.99,West,Delivered
+125,C005,05-02-2024,09-02-2024,Clothing,Jacket,1,99.99,North,Delivered
+126,C006,06-02-2024,10-02-2024,Toys,Lego Set,2,59.99,South,Delivered
+127,C007,07-02-2024,11-02-2024,Electronics,Fire TV Stick,1,39.99,East,Delivered
+128,C008,08-02-2024,,Books,The Lean Startup,1,15.5,West,Pending
+129,C009,09-02-2024,13-02-2024,Clothing,Jeans,1,40,North,Delivered
+130,C010,10-02-2024,15-02-2024,Home,Vacuum Cleaner,1,149.99,South,Delivered
+131,C011,11-02-2024,15-02-2024,Electronics,Kindle,1,89.99,East,Delivered
+132,C012,12-02-2024,16-02-2024,Toys,Toy Car,1,25,West,Delivered
+133,C013,13-02-2024,,Electronics,Echo Dot,2,49.99,North,Pending
+134,C014,14-02-2024,17-02-2024,Books,Atomic Habits,1,10.5,South,Delivered
+135,C015,15-02-2024,18-02-2024,Clothing,T-Shirt,1,15,East,Delivered
+136,C016,16-02-2024,,Home,Blender,1,59.99,West,Pending
+137,C017,17-02-2024,21-02-2024,Electronics,Fire TV Stick,1,39.99,North,Delivered
+138,C018,18-02-2024,22-02-2024,Books,Deep Work,1,12.5,South,Delivered
+139,C019,19-02-2024,,Toys,Lego Set,1,59.99,East,Cancelled
+140,C020,20-02-2024,25-02-2024,Clothing,Jacket,1,99.99,West,Delivered
+141,C001,01-03-2024,04-03-2024,Electronics,Echo Dot,1,49.99,North,Delivered
+142,C002,02-03-2024,06-03-2024,Books,Atomic Habits,1,10.5,South,Delivered
+143,C003,03-03-2024,,Electronics,Kindle,1,89.99,East,Pending
+144,C004,04-03-2024,08-03-2024,Home,Coffee Maker,1,79.99,West,Delivered
+145,C005,05-03-2024,09-03-2024,Clothing,T-Shirt,2,15,North,Delivered
+146,C006,06-03-2024,10-03-2024,Toys,Doll,1,20,South,Delivered
+147,C007,07-03-2024,11-03-2024,Electronics,Fire TV Stick,1,39.99,East,Delivered
+148,C008,08-03-2024,,Books,The Lean Startup,1,15.5,West,Pending
+149,C009,09-03-2024,13-03-2024,Clothing,Jeans,1,40,North,Delivered
+150,C010,10-03-2024,15-03-2024,Home,Vacuum Cleaner,1,149.99,South,Delivered
