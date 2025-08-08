@@ -24,7 +24,7 @@ Customer & Order Data Analysis is an end-to-end data analysis project that proce
 ---
 
 🐂 **Project Structure**
-Customer-Order-Data-Insights/
+Customer-Order-Data-Analysis/
 │── 📂 Excel data
 │ ├── 📄 customers.csv
 │ ├── 📄 orders.csv
